@@ -1,6 +1,5 @@
 variable "prefix" {
-  # A personnaliser avec votre nom
-  default = "ci-cd"
+  default = "ci-cd" # A personnaliser avec votre nom
 }
 
 variable "environment" {
